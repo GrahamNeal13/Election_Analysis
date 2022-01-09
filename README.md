@@ -8,15 +8,15 @@ A Colorado board of elections has asked for a python code that will provide the 
   -Charles Casper Stockham
   -Diana DeGette
   -Raymon Anthony Doane
-3.Calculate the total number of votes each candidate received:
+3. Calculate the total number of votes each candidate received:
 ---
 ![Screen Shot 2022-01-08 at 8.58.42 PM Small.png](https://github.com/GrahamNeal13/Election_Analysis/blob/main/Screen%20Shot%202022-01-08%20at%208.58.42%20PM%20Small.png)
 ---
-4.Calculate the percentage of votes each candidate won.  
+4. Calculate the percentage of votes each candidate won.  
   -Charles Casper Stockham: 23.0% (85,213)
   -Diana DeGette: 73.8% (272,892)
   -Raymon Anthony Doane: 3.1% (11,606)
-5.Determine the winner of the election based on popular vote. 
+5. Determine the winner of the election based on popular vote. 
 ---
 ![Screen Shot 2022-01-08 at 9.19.18 PM copy.png](https://github.com/GrahamNeal13/Election_Analysis/blob/main/Screen%20Shot%202022-01-08%20at%209.19.18%20PM%20copy.png)
 ---
